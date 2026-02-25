@@ -1,2 +1,1 @@
-# Lab3-OOP
-
+This C# console application, implements a system for managing mathematical Matrix and Vector operations while demonstrating core Object-Oriented Programming (OOP) principles. The program uses encapsulation to protect data within the Matrix and Vector classes, and it employs a DimensionValidator to ensure compatibility before performing additions. It also features a Repository class using List<> to store calculation results and an InputHandler to manage user interaction.
